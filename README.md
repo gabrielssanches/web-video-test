@@ -2,6 +2,8 @@
 
 To test, go to https://gabrielssanches.github.io/web-video-test
 
+Also try: https://tools.woolyss.com/html5-audio-video-tester
+
 ### Video encoding
 
 This is how video samples were obtained 
